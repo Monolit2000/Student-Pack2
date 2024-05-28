@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\athleticsfacilitysviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\athleticsfacilitysviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\athleticsfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\athleticsfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\examviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\examviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E400C52-9B72-4C4D-A286-A107DDB01B0F}|University.Data\\University.Data.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.data\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E400C52-9B72-4C4D-A286-A107DDB01B0F}|University.Data\\University.Data.csproj|solutionrelative:university.data\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{A5219E68-189C-41FB-9808-494838E39C44}|University.Main\\University.Main.csproj|solutionrelative:university.main\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\studentorganizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\studentorganizationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -115,14 +131,6 @@
       "RelativeMoniker": "D:0:0:{1D92B782-1580-4DC5-9370-740A07EAA3AE}|University.Tests\\University.Tests.csproj|solutionrelative:university.tests\\examtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\athleticsfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\athleticsfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A5A984E-F5CD-44F1-9801-257DA744E1B6}|University.Models\\University.Models.csproj|solutionrelative:university.models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -165,10 +173,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addexamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addexamview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\examviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\examviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\subjectsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -241,10 +245,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.views\\addathleticsfacilityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{91962DBD-BD4F-4B9F-9FD3-543E23CD82FE}|University.Views\\University.Views.csproj|solutionrelative:university.views\\addathleticsfacilityview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.viewmodels\\athleticsfacilitysviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79513222-A010-4486-9F38-225193C26704}|University.ViewModels\\University.ViewModels.csproj|solutionrelative:university.viewmodels\\athleticsfacilitysviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F46B763E-28AA-4B17-B751-F0632F391897}|University.Controls\\University.Controls.csproj|c:\\users\\\u0441\u0442\u043E\\desktop\\student-pack2\\student-pack2\\src\\university.controls\\tabcontrols.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -371,7 +371,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -383,70 +383,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentOrganization.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\StudentOrganization.cs",
-              "RelativeDocumentMoniker": "University.Models\\StudentOrganization.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\StudentOrganization.cs",
-              "RelativeToolTip": "University.Models\\StudentOrganization.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T01:21:12.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddStudentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentViewModel.cs",
-              "RelativeDocumentMoniker": "University.ViewModels\\AddStudentViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentViewModel.cs",
-              "RelativeToolTip": "University.ViewModels\\AddStudentViewModel.cs",
-              "ViewState": "AQIAANEAAAAAAAAAAAA2wOsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:54:39.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Student.cs",
-              "RelativeDocumentMoniker": "University.Models\\Student.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Student.cs",
-              "RelativeToolTip": "University.Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Title": "ExamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\ExamViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\ExamViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\ExamViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\ExamViewModel.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAEwHAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:38:15.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AddSubjectView.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddSubjectView.xaml",
-              "RelativeDocumentMoniker": "University.Views\\AddSubjectView.xaml",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddSubjectView.xaml",
-              "RelativeToolTip": "University.Views\\AddSubjectView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-27T20:11:01.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AddStudentView.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentView.xaml",
-              "RelativeDocumentMoniker": "University.Views\\AddStudentView.xaml",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentView.xaml",
-              "RelativeToolTip": "University.Views\\AddStudentView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T13:38:15.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:38:16.996Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AthleticsFacilitysViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AthleticsFacilitysViewModels.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\AthleticsFacilitysViewModels.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AthleticsFacilitysViewModels.cs",
+              "RelativeToolTip": "University.ViewModels\\AthleticsFacilitysViewModels.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:12:00.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "University.Main\\AssemblyInfo.cs",
@@ -454,24 +416,74 @@
               "RelativeToolTip": "University.Main\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T19:51:30.194Z",
+              "WhenOpened": "2024-05-14T19:51:30.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AthleticsFacility.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\AthleticsFacility.cs",
+              "RelativeDocumentMoniker": "University.Models\\AthleticsFacility.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\AthleticsFacility.cs",
+              "RelativeToolTip": "University.Models\\AthleticsFacility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:08:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentsViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\StudentsViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentsViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\StudentsViewModel.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwIEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:40:33.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddStudentOrganizationView.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentOrganizationView.xaml",
-              "RelativeDocumentMoniker": "University.Views\\AddStudentOrganizationView.xaml",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentOrganizationView.xaml",
-              "RelativeToolTip": "University.Views\\AddStudentOrganizationView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T01:51:57.207Z",
+              "DocumentIndex": 0,
+              "Title": "EditStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\EditStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\EditStudentViewModel.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAwwKcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:18:05.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "University.ViewModels\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentViewModel.cs",
+              "RelativeToolTip": "University.ViewModels\\AddStudentViewModel.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAUwOAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:54:39.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Data\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "University.Data\\UniversityContext.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Data\\UniversityContext.cs",
+              "RelativeToolTip": "University.Data\\UniversityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:38:15.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Exam.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Exam.cs",
               "RelativeDocumentMoniker": "University.Models\\Exam.cs",
@@ -479,25 +491,68 @@
               "RelativeToolTip": "University.Models\\Exam.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:18:03.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:18:03.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UniversityContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Data\\UniversityContext.cs",
-              "RelativeDocumentMoniker": "University.Data\\UniversityContext.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Data\\UniversityContext.cs",
-              "RelativeToolTip": "University.Data\\UniversityContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "DocumentIndex": 17,
+              "Title": "AddStudentOrganizationView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentOrganizationView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddStudentOrganizationView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentOrganizationView.xaml",
+              "RelativeToolTip": "University.Views\\AddStudentOrganizationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T01:51:57.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddStudentView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddStudentView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddStudentView.xaml",
+              "RelativeToolTip": "University.Views\\AddStudentView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T13:38:15.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddSubjectView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddSubjectView.xaml",
+              "RelativeDocumentMoniker": "University.Views\\AddSubjectView.xaml",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddSubjectView.xaml",
+              "RelativeToolTip": "University.Views\\AddSubjectView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T20:11:01.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Student.cs",
+              "RelativeDocumentMoniker": "University.Models\\Student.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Student.cs",
+              "RelativeToolTip": "University.Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:38:15.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "StudentOrganization.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\StudentOrganization.cs",
+              "RelativeDocumentMoniker": "University.Models\\StudentOrganization.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\StudentOrganization.cs",
+              "RelativeToolTip": "University.Models\\StudentOrganization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:21:12.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "StudentOrganizationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentOrganizationViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\StudentOrganizationViewModel.cs",
@@ -505,73 +560,55 @@
               "RelativeToolTip": "University.ViewModels\\StudentOrganizationViewModel.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAgwEsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T01:38:24.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T01:38:24.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "StudentsView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentsView.xaml",
               "RelativeDocumentMoniker": "University.Views\\StudentsView.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentsView.xaml",
               "RelativeToolTip": "University.Views\\StudentsView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T15:32:16.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:32:16.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentsViewModel.cs",
-              "RelativeDocumentMoniker": "University.ViewModels\\StudentsViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\StudentsViewModel.cs",
-              "RelativeToolTip": "University.ViewModels\\StudentsViewModel.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAqwIEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:40:33.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "EditStudentView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentView.xaml",
               "RelativeDocumentMoniker": "University.Views\\EditStudentView.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentView.xaml",
               "RelativeToolTip": "University.Views\\EditStudentView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T16:38:21.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T16:38:21.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "EditSubjectView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditSubjectView.xaml",
               "RelativeDocumentMoniker": "University.Views\\EditSubjectView.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditSubjectView.xaml",
               "RelativeToolTip": "University.Views\\EditSubjectView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T16:52:29.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T16:52:29.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\MainWindow.xaml",
               "RelativeDocumentMoniker": "University.Main\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\MainWindow.xaml",
               "RelativeToolTip": "University.Main\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T14:11:26.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:11:26.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "StudentsTest.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\StudentsTest.cs",
               "RelativeDocumentMoniker": "University.Tests\\StudentsTest.cs",
@@ -579,12 +616,11 @@
               "RelativeToolTip": "University.Tests\\StudentsTest.cs",
               "ViewState": "AQIAAEsAAAAAAAAAAAAuwGUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:46:35.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T16:46:35.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\MainWindowViewModel.cs",
@@ -592,24 +628,22 @@
               "RelativeToolTip": "University.ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AQIAAGsAAAAAAAAAAAAwwIQAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:51:48.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:51:48.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "DataTemplates.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\DataTemplates.xaml",
               "RelativeDocumentMoniker": "University.Views\\DataTemplates.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\DataTemplates.xaml",
               "RelativeToolTip": "University.Views\\DataTemplates.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T13:38:15.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "University.Views.csproj",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\University.Views.csproj",
               "RelativeDocumentMoniker": "University.Views\\University.Views.csproj",
@@ -617,12 +651,11 @@
               "RelativeToolTip": "University.Views\\University.Views.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "SearchViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\SearchViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\SearchViewModel.cs",
@@ -630,12 +663,11 @@
               "RelativeToolTip": "University.ViewModels\\SearchViewModel.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAwwAwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:55:37.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:55:37.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "bool_.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\bool_.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\bool_.cs",
@@ -643,12 +675,11 @@
               "RelativeToolTip": "University.ViewModels\\bool_.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:38:14.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:14.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "EditStudentOrganizationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentOrganizationViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\EditStudentOrganizationViewModel.cs",
@@ -656,12 +687,11 @@
               "RelativeToolTip": "University.ViewModels\\EditStudentOrganizationViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T01:40:50.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T01:40:50.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "EditExamViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditExamViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\EditExamViewModel.cs",
@@ -669,12 +699,11 @@
               "RelativeToolTip": "University.ViewModels\\EditExamViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABABAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:38:28.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:38:28.647Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "AddStudentOrganizationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddStudentOrganizationViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\AddStudentOrganizationViewModel.cs",
@@ -682,12 +711,11 @@
               "RelativeToolTip": "University.ViewModels\\AddStudentOrganizationViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T01:30:11.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T01:30:11.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "AddExamViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddExamViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\AddExamViewModel.cs",
@@ -695,12 +723,11 @@
               "RelativeToolTip": "University.ViewModels\\AddExamViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:38:37.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:38:37.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "AddAthleticsFacilityViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddAthleticsFacilityViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\AddAthleticsFacilityViewModel.cs",
@@ -708,12 +735,11 @@
               "RelativeToolTip": "University.ViewModels\\AddAthleticsFacilityViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:16:22.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T02:16:22.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "AthleticsFacilityTest.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\AthleticsFacilityTest.cs",
               "RelativeDocumentMoniker": "University.Tests\\AthleticsFacilityTest.cs",
@@ -721,12 +747,11 @@
               "RelativeToolTip": "University.Tests\\AthleticsFacilityTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T04:49:40.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T04:49:40.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "ExamTest.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\ExamTest.cs",
               "RelativeDocumentMoniker": "University.Tests\\ExamTest.cs",
@@ -734,38 +759,11 @@
               "RelativeToolTip": "University.Tests\\ExamTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:34:57.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:34:57.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AthleticsFacility.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\AthleticsFacility.cs",
-              "RelativeDocumentMoniker": "University.Models\\AthleticsFacility.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\AthleticsFacility.cs",
-              "RelativeToolTip": "University.Models\\AthleticsFacility.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:08:25.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "EditStudentViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentViewModel.cs",
-              "RelativeDocumentMoniker": "University.ViewModels\\EditStudentViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditStudentViewModel.cs",
-              "RelativeToolTip": "University.ViewModels\\EditStudentViewModel.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAmwNwAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:18:05.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\Subject.cs",
               "RelativeDocumentMoniker": "University.Models\\Subject.cs",
@@ -773,12 +771,11 @@
               "RelativeToolTip": "University.Models\\Subject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:38:15.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "EditSubjectViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditSubjectViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\EditSubjectViewModel.cs",
@@ -786,12 +783,11 @@
               "RelativeToolTip": "University.ViewModels\\EditSubjectViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T13:18:48.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T13:18:48.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "StudentOrganizationTest.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Tests\\StudentOrganizationTest.cs",
               "RelativeDocumentMoniker": "University.Tests\\StudentOrganizationTest.cs",
@@ -799,12 +795,11 @@
               "RelativeToolTip": "University.Tests\\StudentOrganizationTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T15:39:20.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:39:20.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "SubjectsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\SubjectsViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\SubjectsViewModel.cs",
@@ -816,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "EditAthleticsFacilitysViewModels .cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\EditAthleticsFacilitysViewModels .cs",
               "RelativeDocumentMoniker": "University.ViewModels\\EditAthleticsFacilitysViewModels .cs",
@@ -828,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "SubjectsView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SubjectsView.xaml.cs",
               "RelativeDocumentMoniker": "University.Views\\SubjectsView.xaml.cs",
@@ -840,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "AddExamView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddExamView.xaml",
               "RelativeDocumentMoniker": "University.Views\\AddExamView.xaml",
@@ -851,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "ExamView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\ExamView.xaml.cs",
               "RelativeDocumentMoniker": "University.Views\\ExamView.xaml.cs",
@@ -863,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "AddExamView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddExamView.xaml.cs",
               "RelativeDocumentMoniker": "University.Views\\AddExamView.xaml.cs",
@@ -875,19 +870,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "EditExamView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditExamView.xaml",
               "RelativeDocumentMoniker": "University.Views\\EditExamView.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditExamView.xaml",
               "RelativeToolTip": "University.Views\\EditExamView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T12:32:41.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:32:41.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "SubjectsView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SubjectsView.xaml",
               "RelativeDocumentMoniker": "University.Views\\SubjectsView.xaml",
@@ -898,19 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ExamViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\ExamViewModel.cs",
-              "RelativeDocumentMoniker": "University.ViewModels\\ExamViewModel.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\ExamViewModel.cs",
-              "RelativeToolTip": "University.ViewModels\\ExamViewModel.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAvwFQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:38:16.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ExamView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\ExamView.xaml",
               "RelativeDocumentMoniker": "University.Views\\ExamView.xaml",
@@ -921,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "EditExamView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditExamView.xaml.cs",
               "RelativeDocumentMoniker": "University.Views\\EditExamView.xaml.cs",
@@ -933,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "University.Main\\MainWindow.xaml.cs",
@@ -945,19 +927,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\App.xaml",
               "RelativeDocumentMoniker": "University.Main\\App.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Main\\App.xaml",
               "RelativeToolTip": "University.Main\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T13:09:26.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T13:09:26.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "StudentsView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentsView.xaml.cs",
               "RelativeDocumentMoniker": "University.Views\\StudentsView.xaml.cs",
@@ -969,7 +950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "IDialogService.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Interfaces\\IDialogService.cs",
               "RelativeDocumentMoniker": "University.Interfaces\\IDialogService.cs",
@@ -981,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "University.Common\\ViewModelBase.cs",
@@ -993,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Validators.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Common\\Validators.cs",
               "RelativeDocumentMoniker": "University.Common\\Validators.cs",
@@ -1005,19 +986,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "ListViews.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\ListViews.xaml",
               "RelativeDocumentMoniker": "University.Controls\\ListViews.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\ListViews.xaml",
               "RelativeToolTip": "University.Controls\\ListViews.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T08:37:52.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T08:37:52.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "DialogService.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Services\\DialogService.cs",
               "RelativeDocumentMoniker": "University.Services\\DialogService.cs",
@@ -1029,19 +1009,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "SharedResources.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SharedResources.xaml",
               "RelativeDocumentMoniker": "University.Views\\SharedResources.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\SharedResources.xaml",
               "RelativeToolTip": "University.Views\\SharedResources.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T15:42:51.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:42:51.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "EditStudentOrganizationView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentOrganizationView.xaml.cs",
               "RelativeDocumentMoniker": "University.Views\\EditStudentOrganizationView.xaml.cs",
@@ -1053,7 +1032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "AddSubjectViewModel.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AddSubjectViewModel.cs",
               "RelativeDocumentMoniker": "University.ViewModels\\AddSubjectViewModel.cs",
@@ -1065,7 +1044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "University.Models.csproj",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Models\\University.Models.csproj",
               "RelativeDocumentMoniker": "University.Models\\University.Models.csproj",
@@ -1073,12 +1052,11 @@
               "RelativeToolTip": "University.Models\\University.Models.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "EditAthleticsFacilityView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditAthleticsFacilityView.xaml",
               "RelativeDocumentMoniker": "University.Views\\EditAthleticsFacilityView.xaml",
@@ -1089,7 +1067,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "EditStudentOrganizationView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\EditStudentOrganizationView.xaml",
               "RelativeDocumentMoniker": "University.Views\\EditStudentOrganizationView.xaml",
@@ -1100,7 +1078,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "AthleticsFacilityView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AthleticsFacilityView.xaml",
               "RelativeDocumentMoniker": "University.Views\\AthleticsFacilityView.xaml",
@@ -1111,27 +1089,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "AddAthleticsFacilityView.xaml",
               "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddAthleticsFacilityView.xaml",
               "RelativeDocumentMoniker": "University.Views\\AddAthleticsFacilityView.xaml",
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\AddAthleticsFacilityView.xaml",
               "RelativeToolTip": "University.Views\\AddAthleticsFacilityView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T03:08:05.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "AthleticsFacilitysViewModels.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AthleticsFacilitysViewModels.cs",
-              "RelativeDocumentMoniker": "University.ViewModels\\AthleticsFacilitysViewModels.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.ViewModels\\AthleticsFacilitysViewModels.cs",
-              "RelativeToolTip": "University.ViewModels\\AthleticsFacilitysViewModels.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAuwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:12:00.744Z"
+              "WhenOpened": "2024-05-15T03:08:05.883Z"
             },
             {
               "$type": "Document",
@@ -1142,8 +1107,7 @@
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TabControls.xaml",
               "RelativeToolTip": "University.Controls\\TabControls.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T08:37:47.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T08:37:47.377Z"
             },
             {
               "$type": "Document",
@@ -1178,8 +1142,7 @@
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Views\\StudentOrganizationView.xaml",
               "RelativeToolTip": "University.Views\\StudentOrganizationView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T01:51:17.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T01:51:17.662Z"
             },
             {
               "$type": "Document",
@@ -1274,8 +1237,7 @@
               "RelativeToolTip": "University.Extensions\\University.Extensions.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.721Z"
             },
             {
               "$type": "Document",
@@ -1310,8 +1272,7 @@
               "RelativeToolTip": "University.Tests\\University.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.65Z"
             },
             {
               "$type": "Document",
@@ -1322,8 +1283,7 @@
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TextBoxes.xaml",
               "RelativeToolTip": "University.Controls\\TextBoxes.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T19:52:30.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T19:52:30.533Z"
             },
             {
               "$type": "Document",
@@ -1334,8 +1294,7 @@
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\TextBlocks.xaml",
               "RelativeToolTip": "University.Controls\\TextBlocks.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T19:52:29.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T19:52:29.423Z"
             },
             {
               "$type": "Document",
@@ -1346,8 +1305,7 @@
               "ToolTip": "C:\\Users\\\u0421\u0422\u041E\\Desktop\\Student-Pack2\\Student-Pack2\\src\\University.Controls\\Buttons.xaml",
               "RelativeToolTip": "University.Controls\\Buttons.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-14T19:52:16.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T19:52:16.058Z"
             },
             {
               "$type": "Document",
@@ -1418,8 +1376,7 @@
               "RelativeToolTip": "University.Services\\University.Services.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.683Z"
             },
             {
               "$type": "Document",
@@ -1431,8 +1388,7 @@
               "RelativeToolTip": "University.Main\\University.Main.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.706Z"
             },
             {
               "$type": "Document",
@@ -1444,8 +1400,7 @@
               "RelativeToolTip": "University.Interfaces\\University.Interfaces.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.713Z"
             },
             {
               "$type": "Document",
@@ -1457,8 +1412,7 @@
               "RelativeToolTip": "University.Data\\University.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.727Z"
             },
             {
               "$type": "Document",
@@ -1470,8 +1424,7 @@
               "RelativeToolTip": "University.ViewModels\\University.ViewModels.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.733Z"
             },
             {
               "$type": "Document",
@@ -1483,8 +1436,7 @@
               "RelativeToolTip": "University.Controls\\University.Controls.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.739Z"
             },
             {
               "$type": "Document",
@@ -1496,8 +1448,7 @@
               "RelativeToolTip": "University.Common\\University.Common.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-14T13:38:15.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:38:15.748Z"
             }
           ]
         }
