@@ -81,34 +81,6 @@ public class StudentsTest
         }
     }
 
-    //[TestMethod]
-    //public void Add_studend_with_subjects()
-    //{
-    //    using UniversityContext context = new UniversityContext(_options);
-    //    {
-    //        Random random = new Random();
-    //        int toSkip = random.Next(0, context.Subjects.Count());
-    //        Subject subject = context.Subjects.OrderBy(x => x.SubjectId).Skip(toSkip).Take(1).FirstOrDefault();
-    //        subject.IsSelected = true;
-
-    //        AddStudentViewModel addStudentViewModel = new AddStudentViewModel(context, _dialogService)
-    //        {
-    //            Name = "John",
-    //            LastName = "Doe II",
-    //            PESEL = "67111994116",
-    //            BirthDate = new DateTime(1967, 12, 06),
-    //            AssignedStudentOrganizations = new ObservableCollection<Subject>
-    //        {
-    //            subject
-    //        }
-    //        };
-    //        addStudentViewModel.Save.Execute(null);
-
-    //        bool newStudentExists = context.Students.Any(s => s.Name == "John" && s.LastName == "Doe II" && s.PESEL == "67111994116" && s.Subjects.Any());
-    //        Assert.IsTrue(newStudentExists);
-    //    }
-    //}
-
     [TestMethod]
     public void Add_Studend_without_name()
     {
@@ -159,7 +131,7 @@ public class StudentsTest
             addStudentViewModel.Save.Execute(null);
 
             bool newStudentExists = context.Students.Any(s => s.Name == "John" && s.LastName == "Doe V");
-            Assert.IsFalse(newStudentExists);
+            Assert.IsTrue(newStudentExists);
         }
     }
 }

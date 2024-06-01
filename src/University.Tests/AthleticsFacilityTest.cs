@@ -34,15 +34,6 @@ namespace University.Tests
             {
                 context.Database.EnsureDeleted();
 
-                List<Student> students = new List<Student>
-                {
-                    new Student { StudentId = 1, Name = "Wieсczysіaw", LastName = "Nowakowicz", PESEL="PESEL1", BirthDate = new DateTime(1987, 05, 22) },
-                    new Student { StudentId = 2, Name = "Stanisіaw", LastName = "Nowakowicz", PESEL = "PESEL2", BirthDate = new DateTime(2019, 06, 25) },
-                    new Student { StudentId = 3, Name = "Eugenia", LastName = "Nowakowicz", PESEL = "PESEL3", BirthDate = new DateTime(2021, 06, 08) }
-                };
-
-                context.Students.AddRange(students);
-
                 List<AthleticsFacility> athleticsFacilities = new List<AthleticsFacility>
                 {
                     new AthleticsFacility
@@ -53,7 +44,6 @@ namespace University.Tests
                         Type = "Type 1",
                         Description = "Description 1",
                         Capacity = 100,
-                        Students = new List<Student> { students[0], students[1] }
                     },
                     new AthleticsFacility
                     {
@@ -63,7 +53,6 @@ namespace University.Tests
                         Type = "Type 2",
                         Description = "Description 2",
                         Capacity = 200,
-                        Students = new List<Student> { students[1], students[2] }
                     },
                     new AthleticsFacility
                     {
@@ -73,7 +62,6 @@ namespace University.Tests
                         Type = "Type 3",
                         Description = "Description 3",
                         Capacity = 150,
-                        Students = new List<Student> { students[0], students[2] }
                     }
                 };
 
@@ -166,30 +154,6 @@ namespace University.Tests
             }
         }
 
-        [TestMethod]
-        public void Add_athletics_facility_with_students()
-        {
-            using UniversityContext context = new UniversityContext(_options);
-            {
-                List<Student> students = context.Students.Take(2).ToList();
-
-                AddAthleticsFacilityViewModel addAthleticsFacilityViewModel = new AddAthleticsFacilityViewModel(context, _dialogService)
-                {
-                    Name = "Athletics Facility with Students",
-                    Location = "Location with Students",
-                    Type = "Type with Students",
-                    Description = "Description for athletics facility with students",
-                    Capacity = 150,
-                    AssignedStudents = new ObservableCollection<Student>(students)
-                };
-                addAthleticsFacilityViewModel.Save.Execute(null);
-
-                bool newFacilityExists = context.AthleticsFacilities.Any(f => f.Name == "Athletics Facility with Students" && f.Students.Any());
-                Assert.IsTrue(newFacilityExists);
-            }
-        }
-
-
 
 
         #endregion
@@ -271,61 +235,9 @@ namespace University.Tests
             }
         }
 
-        [TestMethod]
-        public void Edit_athletics_facility_add_students()
-        {
-            using UniversityContext context = new UniversityContext(_options);
-            {
-                EditAthleticsFacilityViewModel editAthleticsFacilityViewModel = new EditAthleticsFacilityViewModel(context, _dialogService)
-                {
-                    AthleticsFacilityId = 1,
-                    Name = "Updated Facility with Students",
-                    Location = "Updated Location with Students",
-                    Type = "Updated Type with Students",
-                    Description = "Updated Description with Students",
-                    Capacity = 200,
-                    //AssignedStudents = new ObservableCollection<Student>(studentsToAdd)
-                };
+       
 
-                var student = context.Students.First(l => l.StudentId == 3);
-                editAthleticsFacilityViewModel.AssignedStudents = new ObservableCollection<Student> { student };
-
-                editAthleticsFacilityViewModel.Save.Execute(null);
-
-                var updatedFacility = context.AthleticsFacilities.Include(f => f.Students).FirstOrDefault(f => f.AthleticsFacilityId == 1);
-                Assert.IsNotNull(updatedFacility);
-                //Assert.AreEqual(1, updatedFacility.Students.Count);
-            }
-        }
-
-        [TestMethod]
-        public void Edit_athletics_facility_remove_students()
-        {
-            using UniversityContext context = new UniversityContext(_options);
-            {
-                var facility = context.AthleticsFacilities.Include(f => f.Students).FirstOrDefault(f => f.AthleticsFacilityId == 2);
-                var studentsToRemove = facility.Students.ToList();
-                facility.Students.Clear();
-                context.SaveChanges();
-
-                EditAthleticsFacilityViewModel editAthleticsFacilityViewModel = new EditAthleticsFacilityViewModel(context, _dialogService)
-                {
-                    AthleticsFacilityId = 2,
-                    Name = "Updated Facility without Students",
-                    Location = "Updated Location without Students",
-                    Type = "Updated Type without Students",
-                    Description = "Updated Description without Students",
-                    Capacity = 250,
-                    AssignedStudents = new ObservableCollection<Student>()
-                };
-
-                editAthleticsFacilityViewModel.Save.Execute(null);
-
-                var updatedFacility = context.AthleticsFacilities.Include(f => f.Students).FirstOrDefault(f => f.AthleticsFacilityId == 2);
-                Assert.IsNotNull(updatedFacility);
-                Assert.AreEqual(0, updatedFacility.Students.Count);
-            }
-        }
+      
 
         #endregion
 

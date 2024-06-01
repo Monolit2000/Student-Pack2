@@ -183,7 +183,6 @@ namespace University.ViewModels
             _athleticsFacility.Type = Type;
             _athleticsFacility.Description = Description;
             _athleticsFacility.Capacity = Capacity;
-            _athleticsFacility.Students = AssignedStudents;
 
             _context.Entry(_athleticsFacility).State = EntityState.Modified;
             _context.SaveChanges();
@@ -331,11 +330,6 @@ namespace University.ViewModels
                 this.Type = _athleticsFacility.Type;
                 this.Description = _athleticsFacility.Description;
                 this.Capacity = _athleticsFacility.Capacity;
-                if (_athleticsFacility.Students is not null)
-                {
-                    this.AssignedStudents =
-                    new ObservableCollection<Student>(_athleticsFacility.Students);
-                }
             }
         }
         #endregion

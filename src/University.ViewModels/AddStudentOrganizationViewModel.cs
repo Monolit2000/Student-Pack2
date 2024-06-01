@@ -1,5 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.Input;
+using Microsoft.EntityFrameworkCore;
 using System;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
 using System.Windows.Input;
@@ -125,6 +127,116 @@ namespace University.ViewModels
             }
         }
 
+
+
+
+
+
+
+
+        #region Add Remuve
+
+
+        private ICommand? _add = null;
+        public ICommand Add
+        {
+            get
+            {
+                if (_add is null)
+                {
+                    _add = new RelayCommand<object>(AddStudent);
+                }
+                return _add;
+            }
+        }
+
+        private void AddStudent(object? obj)
+        {
+            if (obj is Student student)
+            {
+
+                if (AssignedStudents.Contains(student))
+                {
+                    return;
+                }
+                AssignedStudents.Add(student);
+            }
+        }
+
+        private ICommand? _remove = null;
+        public ICommand Remove
+        {
+            get
+            {
+                if (_remove is null)
+                {
+                    _remove = new RelayCommand<object>(RemoveStudent);
+                }
+                return _remove;
+            }
+        }
+        private void RemoveStudent(object? obj)
+        {
+            if (obj is Student student)
+            {
+                AssignedStudents.Remove(student);
+            }
+        }
+
+        #endregion
+
+
+
+
+
+
+        #region Available Assigned
+        private ObservableCollection<Student>? _availableStudents = null;
+        public ObservableCollection<Student> AvailableStudents
+        {
+            get
+            {
+                if (_availableStudents is null)
+                {
+                    _availableStudents = LoadStudents();
+                    return _availableStudents;
+                }
+                return _availableStudents;
+            }
+            set
+            {
+                _availableStudents = value;
+                OnPropertyChanged(nameof(AvailableStudents));
+            }
+        }
+
+        private ObservableCollection<Student>? _assignedStudents = null;
+        public ObservableCollection<Student> AssignedStudents
+        {
+            get
+            {
+                if (_assignedStudents is null)
+                {
+                    _assignedStudents = new ObservableCollection<Student>();
+                    return _assignedStudents;
+                }
+                return _assignedStudents;
+            }
+            set
+            {
+                _assignedStudents = value;
+                OnPropertyChanged(nameof(AssignedStudents));
+            }
+        }
+
+        #endregion
+
+
+
+
+
+
+
         private ICommand? _back = null;
         public ICommand? Back
         {
@@ -165,7 +277,8 @@ namespace University.ViewModels
                 President = President,
                 Description = Description,
                 MeetingSchedule = MeetingSchedule,
-                Email = Email
+                Email = Email,
+                Students = AssignedStudents
             };
 
             _context.StudentOrganizations.Add(organization);
@@ -173,6 +286,15 @@ namespace University.ViewModels
 
             Response = "Data Saved";
         }
+
+
+        private ObservableCollection<Student> LoadStudents()
+        {
+            _context.Database.EnsureCreated();
+            _context.Students.Load();
+            return _context.Students.Local.ToObservableCollection();
+        }
+
 
         public AddStudentOrganizationViewModel(UniversityContext context, IDialogService dialogService)
         {
